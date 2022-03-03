@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "cypress": "cypress open"
+    "cypress": "cypress open",
+    "cypress:run": "cypress run"
   },
   "dependencies": {
     "axios": "^0.19.2",
